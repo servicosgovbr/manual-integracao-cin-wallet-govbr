@@ -1,11 +1,7 @@
-Roteiro de Integração API de Assinaturas Avançadas 
+Roteiro de Integração CIN wallet
 ===================================================
 
 Sobre
 -----
-Documentação de apoio e orientação para entidades públicas interessadas em integrar suas aplicações clientes a API de Assinatura Digital Avançada.
+Documentação de apoio e orientação para entidades públicas.
 
-Como contribuir
----------------
-
-Fique livre para enviar issues e contribuir para o projeto.
